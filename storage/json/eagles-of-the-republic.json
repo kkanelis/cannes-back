@@ -1,0 +1,53 @@
+{
+  "title": "EAGLES OF THE REPUBLIC",
+  "summary": "",
+  "director": "Tarik SALEH",
+  "year": "2025",
+  "country": "Sweden, France",
+  "duration_minutes": "129",
+  "credits": [
+    {
+      "name": "Tarik SALEH",
+      "role": "Director"
+    },
+    {
+      "name": "Pierre AIM",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Roger ROSENBERG",
+      "role": "Production Design"
+    },
+    {
+      "name": "Alexandre DESPLAT",
+      "role": "Music"
+    },
+    {
+      "name": "Theis SCHMIDT",
+      "role": "Editing"
+    },
+    {
+      "name": "Hans MØLLER",
+      "role": "Sound"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Fares FARES",
+      "character": "George"
+    },
+    {
+      "actor": "Lyna KHOUDRI",
+      "character": "Donya"
+    },
+    {
+      "actor": "Zineb TRIKI",
+      "character": "Suzanne"
+    },
+    {
+      "actor": "Amr WAKED",
+      "character": "Dr Manssour"
+    }
+  ],
+  "poster_url": "eagles-of-the-republic.webp"
+}

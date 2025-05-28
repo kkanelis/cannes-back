@@ -1,0 +1,49 @@
+{
+  "title": "DIE MY LOVE",
+  "summary": "Love\nMadness\nMadness\nLove",
+  "director": "Lynne RAMSAY",
+  "year": "2024",
+  "country": "Canada",
+  "duration_minutes": "118",
+  "credits": [
+    {
+      "name": "Lynne RAMSAY",
+      "role": "Director"
+    },
+    {
+      "name": "Lynne RAMSAY",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Enda WALSH",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Alice BIRCH",
+      "role": "Screenplay"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Jennifer LAWRENCE",
+      "character": "Grace"
+    },
+    {
+      "actor": "Robert PATTINSON",
+      "character": "Jackson"
+    },
+    {
+      "actor": "Lakeith STANFIELD",
+      "character": "Karl"
+    },
+    {
+      "actor": "Sissy SPACEK",
+      "character": "Pam"
+    },
+    {
+      "actor": "Nick NOLTE",
+      "character": "Harry"
+    }
+  ],
+  "poster_url": "die-my-love.webp"
+}

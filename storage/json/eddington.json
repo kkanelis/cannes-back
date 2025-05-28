@@ -1,0 +1,77 @@
+{
+  "title": "EDDINGTON",
+  "summary": "In May of 2020, a standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
+  "director": "Ari ASTER",
+  "year": "2024",
+  "country": "United States",
+  "duration_minutes": "145",
+  "credits": [
+    {
+      "name": "Ari ASTER",
+      "role": "Director"
+    },
+    {
+      "name": "Ari ASTER",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Darius KHONDJI",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Elliott HOSTETTER",
+      "role": "Production Design"
+    },
+    {
+      "name": "Bobby KRLIC",
+      "role": "Music"
+    },
+    {
+      "name": "Daniel PEMBERTON",
+      "role": "Music"
+    },
+    {
+      "name": "Lucian JOHNSTON",
+      "role": "Editing"
+    },
+    {
+      "name": "Paul HSU",
+      "role": "Sound"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Joaquin PHOENIX",
+      "character": ""
+    },
+    {
+      "actor": "Pedro PASCAL",
+      "character": ""
+    },
+    {
+      "actor": "Emma STONE",
+      "character": ""
+    },
+    {
+      "actor": "Austin BUTLER",
+      "character": ""
+    },
+    {
+      "actor": "Luke GRIMES",
+      "character": ""
+    },
+    {
+      "actor": "Deirdre O’CONNELL",
+      "character": ""
+    },
+    {
+      "actor": "Micheal WARD",
+      "character": ""
+    },
+    {
+      "actor": "Clifton COLLINS JR.",
+      "character": ""
+    }
+  ],
+  "poster_url": "eddington.webp"
+}

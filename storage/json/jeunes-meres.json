@@ -1,0 +1,65 @@
+{
+  "title": "JEUNES MÈRES",
+  "summary": "Jessica, Perla, Julie, Ariane and Naïma are housed in a shelter for young mothers. Five teenagers hoping for a better life for themselves and their babies.",
+  "director": "Jean-Pierre DARDENNE, Luc DARDENNE",
+  "year": "2025",
+  "country": "Belgium, France",
+  "duration_minutes": "104",
+  "credits": [
+    {
+      "name": "Jean-Pierre DARDENNE",
+      "role": "Director"
+    },
+    {
+      "name": "Luc DARDENNE",
+      "role": "Director"
+    },
+    {
+      "name": "Jean-Pierre DARDENNE",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Luc DARDENNE",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Benoit DERVAUX",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Igor GABRIEL",
+      "role": "Production Design"
+    },
+    {
+      "name": "Marie Hélène DOZO",
+      "role": "Editing"
+    },
+    {
+      "name": "Thomas GAUDER",
+      "role": "Sound"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Babette VERBEEK",
+      "character": "Jessica"
+    },
+    {
+      "actor": "Elsa HOUBEN",
+      "character": "Julie"
+    },
+    {
+      "actor": "Janaina HALLOY FOKAN",
+      "character": "Ariane"
+    },
+    {
+      "actor": "Lucie LARUELLE",
+      "character": "Perla"
+    },
+    {
+      "actor": "Samia HILMI",
+      "character": "Naïma"
+    }
+  ],
+  "poster_url": "jeunes-meres.webp"
+}

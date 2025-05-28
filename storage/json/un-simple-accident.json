@@ -1,0 +1,53 @@
+{
+  "title": "UN SIMPLE ACCIDENT",
+  "summary": "What begins as a minor accident sets in motion a series of escalating consequences.",
+  "director": "Jafar PANAHI",
+  "year": "2025",
+  "country": "Iran, France, Luxembourg",
+  "duration_minutes": "105",
+  "credits": [
+    {
+      "name": "Jafar PANAHI",
+      "role": "Director"
+    },
+    {
+      "name": "Jafar PANAHI",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Amin JAFARI",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Leila NAGHDI",
+      "role": "Production Design"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Vahid MOBASSERI",
+      "character": "Vahid"
+    },
+    {
+      "actor": "Mariam AFSHARI",
+      "character": "Shiva"
+    },
+    {
+      "actor": "Ebrahim AZIZI",
+      "character": "Eghbal"
+    },
+    {
+      "actor": "Hadis PAKBATEN",
+      "character": "Golrokh"
+    },
+    {
+      "actor": "Majid PANAHI",
+      "character": "the groom"
+    },
+    {
+      "actor": "Mohamad Ali ELYASMEHR",
+      "character": "Hamid"
+    }
+  ],
+  "poster_url": "un-simple-accident.webp"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "ALPHA",
+  "summary": "Alpha, a troubled 13-year-old lives with her single mom. Their world collapses the day she returns from school with a tattoo on her arm.",
+  "director": "Julia DUCOURNAU",
+  "year": "2025",
+  "country": "France, Belgium",
+  "duration_minutes": "128",
+  "credits": [
+    {
+      "name": "Julia DUCOURNAU",
+      "role": "Director"
+    },
+    {
+      "name": "Julia DUCOURNAU",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Ruben IMPENS, BSC",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Emmanuelle DUPLAY",
+      "role": "Production Design"
+    },
+    {
+      "name": "Jim WILLIAMS",
+      "role": "Music"
+    },
+    {
+      "name": "Jean-Christophe BOUZY",
+      "role": "Editing"
+    },
+    {
+      "name": "Paul MAERNOUDT",
+      "role": "Sound"
+    },
+    {
+      "name": "Séverin FAVRIAU",
+      "role": "Sound"
+    },
+    {
+      "name": "Stéphane THIEBAUT",
+      "role": "Sound"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Tahar RAHIM",
+      "character": ""
+    },
+    {
+      "actor": "Golshifteh FARAHANI",
+      "character": ""
+    },
+    {
+      "actor": "Mélissa BOROS",
+      "character": ""
+    },
+    {
+      "actor": "Emma MACKEY",
+      "character": ""
+    },
+    {
+      "actor": "Finnegan OLDFIELD",
+      "character": ""
+    },
+    {
+      "actor": "Louai EL AMROUSY",
+      "character": ""
+    }
+  ],
+  "poster_url": "alpha.webp"
+}

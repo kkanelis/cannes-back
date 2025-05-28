@@ -1,0 +1,61 @@
+{
+  "title": "NOUVELLE VAGUE",
+  "summary": "This is the story of Godard making “Breathless”, told in the style and spirit in which  Godard made “Breathless”.",
+  "director": "Richard LINKLATER",
+  "year": "2025",
+  "country": "France",
+  "duration_minutes": "105",
+  "credits": [
+    {
+      "name": "Richard LINKLATER",
+      "role": "Director"
+    },
+    {
+      "name": "Vince PALMO",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Michèle HALBERSTADT",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Laetitia MASSON",
+      "role": "Screenplay"
+    },
+    {
+      "name": "Holly GENT",
+      "role": "Screenplay"
+    },
+    {
+      "name": "David CHAMBILLE",
+      "role": "Cinematography"
+    },
+    {
+      "name": "Katia WYSZKOP",
+      "role": "Production Design"
+    },
+    {
+      "name": "Catherine SCHWARTZ",
+      "role": "Editing"
+    },
+    {
+      "name": "Jean MINONDO",
+      "role": "Sound"
+    }
+  ],
+  "casting": [
+    {
+      "actor": "Guillaume MARBECK",
+      "character": ""
+    },
+    {
+      "actor": "Zoey DEUTCH",
+      "character": ""
+    },
+    {
+      "actor": "Aubry DULLIN",
+      "character": ""
+    }
+  ],
+  "poster_url": "nouvelle-vague-2.webp"
+}
